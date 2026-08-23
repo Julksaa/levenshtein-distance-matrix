@@ -1,2 +1,3 @@
-# levenshtein-distance-matrix
-Dynamic programming Levenshtein and Damerau-Levenshtein edit distance calculator.
+# Levenshtein Distance Matrix
+
+Fast string difference calculation for fuzzy search and autocorrect.
